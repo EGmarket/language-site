@@ -2,7 +2,7 @@
     background-color: rgb(84, 16, 212);
     height: 600px;
     border-bottom: 1px solid gainsboro;
-    margin-bottom: 25%;
+    margin-bottom: 20%;
 }
 
 .head-text {
@@ -31,33 +31,10 @@
     border-bottom: 2px solid rgb(182, 176, 176);
 }
 
-.service-text {
-    position: absolute;
-    background-color: rgb(84, 16, 212);
-    color: rgb(248, 246, 246);
-    border: 2px solid green;
-    border-radius: 10px;
-    text-align: center;
-    margin-left: 10%;
-    margin-top: -60px;
-    box-shadow: 2px 2px 2px 2px black;
+.men {
+    /* margin-left: 20%; */
 }
 
 .enroll-btn {
     margin-left: 50%;
-}
-
-.service {
-    text-align: center;
-}
-
-.card-img {
-    width: 200px;
-    height: 200px;
-    border: 2px solid rgb(84, 16, 212);
-}
-
-.teacher-img {
-    height: 400px;
-    border-radius: 50%;
 }

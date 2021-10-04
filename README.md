@@ -1,6 +1,6 @@
 # Learn Korean Language Easily
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://hangulbd.netlify.app/).
 
 ## Available Scripts
 * APPS DATA HAS BEEN STORED IN LOCALLY and Images From Google

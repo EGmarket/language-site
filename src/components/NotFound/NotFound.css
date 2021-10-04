@@ -1,0 +1,13 @@
+.not-found {
+    background-color: rgb(84, 16, 212);
+    height: 700px;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.not-found-text {
+    font-size: 150px;
+}

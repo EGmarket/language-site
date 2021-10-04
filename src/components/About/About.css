@@ -1,0 +1,14 @@
+.about-us {
+    background-color: rgb(84, 16, 212);
+    height: 800px;
+}
+
+.about-text {
+    margin-top: 170px;
+}
+
+.about-img {
+    height: 300px;
+    border-radius: 40px;
+    margin-top: 150px;
+}

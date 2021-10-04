@@ -1,13 +1,12 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import './HomeTeacher.css'
 
-const HomeTeacher = (props) => {
+const Teacher = (props) => {
     const {name,qualification,level,country,img,desc} = props.teacher;
     return (
-        <div>
-            <Col>
-             <Card className="container mx-5">
+        <div >
+               <Col>
+             <Card className="container  mx-5">
                      <Card.Img variant="top" src={img}  className="teacher-img"/>
                      <Card.Body>
                          <Card.Title>Name: {name}</Card.Title>
@@ -25,4 +24,4 @@ const HomeTeacher = (props) => {
     );
 };
 
-export default HomeTeacher;
+export default Teacher;

@@ -1,3 +1,5 @@
+/* For Head Section  */
+
 .head-section {
     background-color: rgb(84, 16, 212);
     height: 600px;
@@ -30,6 +32,9 @@
     text-align: center;
     border-bottom: 2px solid rgb(182, 176, 176);
 }
+
+
+/* Service text will use  */
 
 .service-text {
     position: absolute;

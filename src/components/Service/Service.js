@@ -13,7 +13,8 @@ const Service = (props) => {
                      <Card.Body className="bg-service text-white mb-3 shadow-lg rounded">
                          <Card.Title>Name: {title}</Card.Title>
                          <Card.Text>
-                                <h5>{tutionFee}</h5>
+                                <h5>Duration: {duration}</h5>
+                                <h5>Fee: {tutionFee}</h5>
                                 {desc}
                         </Card.Text>
                      </Card.Body>

@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+* APPS DATA HAS BEEN STORED IN LOCALLY and Images From Google
+* We did not Used Fontawesome icon in this project yet but We will use in next update
+* If You want to learn Korean Language Easily then You can easily learn with our use
+          
+                   * We are regularly updating
+                   * Please evaluate me with larger display , in small display my design is Broken, Thanks in advance 
 
 In the project directory, you can run:
 

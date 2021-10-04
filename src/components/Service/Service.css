@@ -1,3 +1,8 @@
 .bg-service {
     background-color: rgb(84, 16, 212);
 }
+
+.books-img {
+    height: 400px;
+    width: 300;
+}
